@@ -1,0 +1,2 @@
+from .mkcfg import Config
+
