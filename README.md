@@ -53,7 +53,7 @@ bash ./scripts/train.sh 0,1,2,3,4,5,6,7 config/runs/scout.py
 
 ### Evaluation
 
-Downloading checkpoints at GoogleDrive(https://drive.google.com/drive/folders/1qkphaFNKYGs-y9w1uIrtuUZ3oV8gifZP?usp=drive_link).
+Downloading checkpoints at [GoogleDrive](https://drive.google.com/drive/folders/1qkphaFNKYGs-y9w1uIrtuUZ3oV8gifZP?usp=drive_link).
 “fixed” means testing with fixed text, while “accurate” means testing with directive text.
 
 ```
