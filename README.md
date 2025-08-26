@@ -43,7 +43,7 @@ python setup.py install
 
 ### Dataset Preparation
 
-Downloading Dataset from section "Datasets / Annotations" and moving it into `./dataset`.
+Downloading dataset: [GoogleDrive](https://drive.google.com/drive/folders/19MaIVAcqr8sIv0R1hIq7MZhPqO-9_s8v?usp=drive_link) and moving it into `./dataset`.
 
 ### Training
 
@@ -53,6 +53,7 @@ bash ./scripts/train.sh 0,1,2,3,4,5,6,7 config/runs/scout.py
 
 ### Evaluation
 
+Downloading checkpoints at GoogleDrive(https://drive.google.com/drive/folders/1qkphaFNKYGs-y9w1uIrtuUZ3oV8gifZP?usp=drive_link).
 “fixed” means testing with fixed text, while “accurate” means testing with directive text.
 
 ```
